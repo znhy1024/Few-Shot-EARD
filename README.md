@@ -3,5 +3,5 @@
 This is the official repository of an agile and cost-effective framework for few-shot early rumor detection, which comprise a lightweight agent for automatic early time point determination and an LLM for rumor detection. Only the agent requires training, while we keep the LLM detector training-free.
 
 <p align="center">
-<img src="misc/main_fig.pdf" height=350>
+<img src="misc/main_fig.png" height=350>
 </p>
