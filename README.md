@@ -1,6 +1,6 @@
-# LLM-based Few-Shot Early Rumor Detection with Imitation Agent (Accepted at KDD 2026) 
+# LLM-based Few-Shot Early Rumor Detection with Imitation Agent
 
-This is the official repository of an agile and cost-effective framework for few-shot early rumor detection, which comprises a lightweight agent for automatic early time point determination and an LLM for rumor detection. 
+This is the official repository of an agile and cost-effective framework for few-shot early rumor detection, which comprises a lightweight agent for automatic early time point determination and an LLM for rumor detection. This work has been accepted at KDD 2026.
 
 <p align="center">
 <img src="misc/main_fig.png" height=350>
@@ -33,6 +33,14 @@ Once the data is prepared, run `main.py`.
 ## Citation
 
 ```
-@inproceedings{}
+@misc{zeng2025llmbasedfewshotearlyrumor,
+      title={LLM-based Few-Shot Early Rumor Detection with Imitation Agent}, 
+      author={Fengzhu Zeng and Qian Shao and Ling Cheng and Wei Gao and Shih-Fen Cheng and Jing Ma and Cheng Niu},
+      year={2025},
+      eprint={2512.18352},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL},
+      url={https://arxiv.org/abs/2512.18352}, 
+}
 
 ```
